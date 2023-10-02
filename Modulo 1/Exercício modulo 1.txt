@@ -1,3 +1,0 @@
-O HTML tem como princípal função de ser um esqueleto do site, ou seja, ele que define a utilidade daquele site e devine como irá funcionar,
-já o CSS tem uma aplicabilidade mais visual na qual visa definir a identidade visual do site e aplicar certos efeitos visuais básicos nele, e
-por fim o JS tem como terefa realizar a junção do HTML com CSS e dar "vida" ao projeto fazendo com que faça o que se pede.
